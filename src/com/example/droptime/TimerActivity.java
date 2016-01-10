@@ -250,7 +250,7 @@ public class TimerActivity extends Activity {
     } 
 	
 	/**
-	 * 更新計時
+	 * Update Timer
 	 */
     private Runnable updateTimer = new Runnable() {
         
