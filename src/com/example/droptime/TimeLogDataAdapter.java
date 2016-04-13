@@ -58,7 +58,7 @@ public class TimeLogDataAdapter extends BaseAdapter{
 			viewTag = (ViewTag) convertView.getTag();	
 		}
 			
-		//塞入對應的值
+		//set the value
 		viewTag.title.setText(timeLogList.get(position).title);
 		viewTag.date.setText(timeLogList.get(position).date);
 		viewTag.spent.setText(timeLogList.get(position).spent);
