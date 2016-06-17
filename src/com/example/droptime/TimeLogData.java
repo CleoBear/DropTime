@@ -1,7 +1,7 @@
 package com.example.droptime;
 
 /**
- * 時間紀錄資料
+ * TimeLogData defined the time log attribute
  * @author cleo
  */
 public class TimeLogData {
